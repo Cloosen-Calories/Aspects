@@ -1,6 +1,6 @@
 //
 //  AspectsAppDelegate.m
-//  AspectsDemo
+//  AspectsDemo   Test
 //
 //  Created by Peter Steinberger on 03/05/14.
 //  Copyright (c) 2014 PSPDFKit GmbH. All rights reserved.
