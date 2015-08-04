@@ -1,11 +1,3 @@
-//
-//  AspectsAppDelegate.m
-//  AspectsDemo   Test1111//
-//
-//  Created by Peter Steinberger on 03/05/14.12345
-//  Copyright (c) 2014 PSPDFKit GmbH. All rights reserved.
-//
-
 #import "AspectsAppDelegate.h"
 #import "AspectsViewController.h"
 #import "Aspects.h"
